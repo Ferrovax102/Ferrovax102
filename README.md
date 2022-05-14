@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ian Moy</h1>
-<h3 align="center">A passionate full stack developer from Wisconsin</h3>
+<h3 align="center">A  full stack developer from Wisconsin</h3>
 
 - 🔭 I’m currently working on **Placeholder #1**
 
